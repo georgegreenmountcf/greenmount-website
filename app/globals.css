@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-primary: #2D5A3D;
+  --brand-secondary: #4A7C5C;
+  --brand-accent: #6B9F7E;
+  --brand-cream: #F5F2EB;
+  --brand-dark: #1A1A1A;
+  --brand-muted: #6B6B6B;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "DM Sans", sans-serif;
+  color: var(--brand-dark);
+}
