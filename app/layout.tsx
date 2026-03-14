@@ -34,6 +34,7 @@ export const metadata: Metadata = {
     url: "https://www.greenmountcorporatefinance.co.uk",
     siteName: "Greenmount Corporate Finance",
     type: "website",
+    locale: "en_GB",
   },
 };
 
