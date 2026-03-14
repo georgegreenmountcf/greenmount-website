@@ -36,7 +36,7 @@ export default function Hero() {
               Sell-Side M&A Advisory
             </p>
             <h1 className="font-playfair text-4xl md:text-5xl lg:text-6xl text-white leading-tight mb-6">
-              Maximising value for entrepreneurs and business owners
+              Maximizing value for business owners
             </h1>
             <p className="font-dm text-lg text-white/90 mb-8 leading-relaxed">
               Greenmount Corporate Finance is a specialist sell-side M&A advisory
