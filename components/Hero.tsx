@@ -39,9 +39,10 @@ export default function Hero() {
               Maximizing value for business owners
             </h1>
             <p className="font-dm text-lg text-white/90 mb-8 leading-relaxed">
-              Greencombe Corporate Finance helps business owners maximise the
-              value of their businesses. Our technical expertise of acquiring
-              and selling businesses means we make sure no value is left behind.
+              Your business deserves more than a broker. Greencombe Corporate
+              Finance are chartered accountants with both Big 4 and private
+              equity experience of buying and selling businesses. We ensure no
+              value is left behind.
             </p>
             <a
               href="#contact"
