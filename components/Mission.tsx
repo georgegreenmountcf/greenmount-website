@@ -16,10 +16,13 @@ export default function Mission() {
         <div className="w-12 h-0.5 bg-brand-primary mx-auto mb-8" />
 
         <p className="font-cormorant italic text-2xl md:text-3xl text-brand-primary leading-relaxed">
-          &ldquo;We are dedicated to creating additional value for business
-          owners. Having sat on both sides of the table as buyers and sellers,
-          our tenacious dealmaking approach, proven track record, and expert
-          negotiation skills combine to deliver exceptional outcomes.&rdquo;
+          &ldquo;We are dedicated to delivering more for business owners upon
+          exit. Having sat on both sides of the table as buyers and sellers, we
+          understand the value areas that others miss — from operational
+          improvements to deal structure and technical mechanics. Where
+          traditional brokers leave significant value on the table, our
+          qualified expertise and tenacious negotiation consistently deliver
+          superior outcomes.&rdquo;
         </p>
       </motion.div>
     </section>
