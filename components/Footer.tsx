@@ -8,7 +8,7 @@ export default function Footer() {
             GREENCOMBE CORPORATE FINANCE
           </span>
           <p className="font-dm text-gray-400 text-xs mt-1">
-            Sell-Side M&A Advisory
+            Experts in Selling Businesses
           </p>
         </div>
 

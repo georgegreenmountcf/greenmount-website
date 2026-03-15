@@ -33,16 +33,16 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.2 }}
           >
             <p className="font-dm text-sm uppercase tracking-[0.2em] text-white/80 mb-4">
-              Sell-Side M&A Advisory
+              Experts in Selling Businesses
             </p>
             <h1 className="font-playfair text-4xl md:text-5xl lg:text-6xl text-white leading-tight mb-6">
               Maximizing value for business owners
             </h1>
             <p className="font-dm text-lg text-white/90 mb-8 leading-relaxed">
-              Greencombe Corporate Finance is a specialist sell-side M&A advisory
-              firm. We partner with founders and shareholders of independent
-              businesses to maximise value and protect their interests when
-              exiting.
+              Greencombe Corporate Finance helps business owners sell their
+              businesses for the best possible price. We handle the entire
+              process so you can focus on running your business while we
+              secure the right deal for you.
             </p>
             <a
               href="#contact"

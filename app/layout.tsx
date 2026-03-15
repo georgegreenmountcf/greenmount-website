@@ -23,14 +23,14 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "Greencombe Corporate Finance | Sell-Side M&A Advisory",
+  title: "Greencombe Corporate Finance | Experts in Selling Businesses",
   description:
-    "Greencombe Corporate Finance is a specialist sell-side M&A advisory firm dedicated to maximising value for entrepreneurs and business owners.",
+    "Greencombe Corporate Finance helps business owners sell their businesses for the best possible price. We handle the entire process from valuation to completion.",
   keywords:
-    "M&A advisory, sell-side, corporate finance, business sale, entrepreneur, exit planning, UK",
+    "sell my business, selling a business, business valuation, business sale, exit planning, UK, corporate finance",
   openGraph: {
     title: "Greencombe Corporate Finance",
-    description: "Specialist sell-side M&A advisory for entrepreneurs.",
+    description: "Helping business owners sell their businesses for the best possible price.",
     url: "https://www.greencombecf.co.uk",
     siteName: "Greencombe Corporate Finance",
     type: "website",
