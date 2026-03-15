@@ -5,28 +5,28 @@ import { motion } from "framer-motion";
 const services = [
   {
     num: "01",
-    title: "Strategic Positioning",
-    desc: "Refine the equity story, identify value drivers, and prepare materials that withstand scrutiny.",
+    title: "Initial Discussion & Valuation",
+    desc: "We begin with a confidential, no-obligation conversation to understand your business and objectives. We then prepare a detailed valuation so you can make informed decisions.",
   },
   {
     num: "02",
-    title: "Buyer Universe Mapping",
-    desc: "Identify and prioritise global strategic and financial buyers aligned with your growth profile.",
+    title: "Selective Buyer Mapping",
+    desc: "We identify and approach a carefully selected pool of strategic and financial buyers — no mass mailshots. Every approach is targeted, relevant, and protected by NDAs to maintain full confidentiality.",
   },
   {
     num: "03",
-    title: "Controlled Market Engagement",
-    desc: "Launch a confidential, phased approach designed to create competitive tension.",
+    title: "Negotiation & Value Creation",
+    desc: "We manage competing offers, negotiate deal structure and terms, and create competitive tension to drive the best possible outcome for shareholders.",
   },
   {
     num: "04",
-    title: "Negotiation & Value Protection",
-    desc: "Manage offers, structure terms, and defend valuation through diligence and negotiation.",
+    title: "Due Diligence Management",
+    desc: "We guide you through the diligence process, managing information flow, responding to buyer queries, and protecting value at every stage.",
   },
   {
     num: "05",
     title: "Completion & Transition",
-    desc: "Support through completion, future value creation and post-transaction alignment.",
+    desc: "We support you through to legal completion and beyond, ensuring a smooth transition and alignment on any post-transaction arrangements.",
   },
 ];
 
@@ -46,9 +46,8 @@ export default function Services() {
           </h2>
           <div className="w-10 h-0.5 bg-brand-primary mx-auto mb-6" />
           <p className="font-dm text-brand-muted max-w-2xl mx-auto">
-            Greenmount advises founders and shareholders on strategic business
-            sales. We run disciplined, competitive sell-side processes that
-            maximise valuation.
+            From initial conversation through to completion, we manage every
+            stage of the process to maximise value and protect your interests.
           </p>
         </motion.div>
 

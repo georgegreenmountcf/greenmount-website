@@ -7,17 +7,17 @@ const items = [
   {
     icon: Users,
     title: "Big 4 & Private Equity Experience",
-    desc: "Our team combines Big 4 corporate finance and private equity backgrounds, with hands-on experience across the complete deal lifecycle on both buy-side and sell-side transactions.",
+    desc: "Our team combines Big 4 corporate finance experience, where we assisted dozens of business owners through successful exits, alongside a private equity buy-and-build model where we acquired businesses directly from owners. Hands-on experience across the complete deal lifecycle on both the buy side and the sell side.",
   },
   {
     icon: Target,
-    title: "SME Specialists",
-    desc: "Our expertise lies with businesses generating between £500k and £50m in revenues — an area where Big 4 M&A fees are prohibitive due to exceptional overheads and generalist brokers lack the expertise. We bridge that gap with institutional-quality advice at this underserved end of the market.",
+    title: "Complimentary Valuation",
+    desc: "Thinking about an exit but unsure what your business is worth? We prepare a detailed valuation for shareholders at no cost and with no obligation — giving you the clarity to make informed decisions about your future.",
   },
   {
     icon: Shield,
     title: "Qualified Chartered Accountants, Not Brokers",
-    desc: "While working in private equity, we witnessed deal brokers leave millions of pounds of value behind for exiting shareholders due to their lack of financial and deal mechanics understanding. This is what led us to found Greenmount Corporate Finance. We bring the technical rigour that protects shareholders through due diligence.",
+    desc: "While working in private equity, we witnessed deal brokers leave millions of pounds of value behind for exiting shareholders due to their lack of financial and deal mechanics understanding. This is what led us to found Greenmount Corporate Finance. We have the technical skills to maximise exiting shareholder value.",
   },
   {
     icon: Gavel,
