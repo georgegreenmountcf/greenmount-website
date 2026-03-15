@@ -17,7 +17,7 @@ const items = [
   {
     icon: Shield,
     title: "Qualified Chartered Accountants, Not Brokers",
-    desc: "While working in private equity, we witnessed deal brokers leave millions of pounds of value behind for exiting shareholders due to their lack of financial and deal mechanics understanding. This is what led us to found Greenmount Corporate Finance. We have the technical skills to maximise exiting shareholder value.",
+    desc: "While working in private equity, we witnessed deal brokers leave millions of pounds of value behind for exiting shareholders due to their lack of financial and deal mechanics understanding. This is what led us to found Greencombe Corporate Finance. We have the technical skills to maximise exiting shareholder value.",
   },
   {
     icon: Gavel,

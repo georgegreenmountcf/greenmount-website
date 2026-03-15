@@ -5,7 +5,7 @@ export default function Footer() {
         {/* Logo & tagline */}
         <div className="text-center md:text-left">
           <span className="font-playfair font-bold text-white text-base tracking-wide">
-            GREENMOUNT CORPORATE FINANCE
+            GREENCOMBE CORPORATE FINANCE
           </span>
           <p className="font-dm text-gray-400 text-xs mt-1">
             Sell-Side M&A Advisory
@@ -30,7 +30,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <p className="font-dm text-gray-500 text-xs">
-          &copy; 2026 Greenmount Corporate Finance. All rights reserved.
+          &copy; 2026 Greencombe Corporate Finance. All rights reserved.
         </p>
       </div>
     </footer>

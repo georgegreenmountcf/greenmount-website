@@ -23,16 +23,16 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "Greenmount Corporate Finance | Sell-Side M&A Advisory",
+  title: "Greencombe Corporate Finance | Sell-Side M&A Advisory",
   description:
-    "Greenmount Corporate Finance is a specialist sell-side M&A advisory firm dedicated to maximising value for entrepreneurs and business owners.",
+    "Greencombe Corporate Finance is a specialist sell-side M&A advisory firm dedicated to maximising value for entrepreneurs and business owners.",
   keywords:
     "M&A advisory, sell-side, corporate finance, business sale, entrepreneur, exit planning, UK",
   openGraph: {
-    title: "Greenmount Corporate Finance",
+    title: "Greencombe Corporate Finance",
     description: "Specialist sell-side M&A advisory for entrepreneurs.",
-    url: "https://www.greenmountcorporatefinance.co.uk",
-    siteName: "Greenmount Corporate Finance",
+    url: "https://www.greencombecf.co.uk",
+    siteName: "Greencombe Corporate Finance",
     type: "website",
     locale: "en_GB",
   },

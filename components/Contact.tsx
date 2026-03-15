@@ -25,11 +25,11 @@ export default function Contact() {
 
             <div className="space-y-4">
               <a
-                href="mailto:info@greenmountcorporatefinance.co.uk"
+                href="mailto:info@greencombecf.co.uk"
                 className="flex items-center gap-3 font-dm text-brand-dark hover:text-brand-primary transition-colors"
               >
                 <Mail className="w-5 h-5 text-brand-primary" />
-                info@greenmountcorporatefinance.co.uk
+                info@greencombecf.co.uk
               </a>
 
             </div>

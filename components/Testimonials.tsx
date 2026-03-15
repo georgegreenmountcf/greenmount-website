@@ -7,19 +7,19 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 const testimonials = [
   {
     quote:
-      "The Greenmount team delivered an exceptional result. Their process was meticulous and their negotiation skills were outstanding.",
+      "The Greencombe team delivered an exceptional result. Their process was meticulous and their negotiation skills were outstanding.",
     name: "Managing Director",
     role: "Technology Company",
   },
   {
     quote:
-      "From start to finish, Greenmount provided expert guidance. They created genuine competitive tension and maximised our valuation.",
+      "From start to finish, Greencombe provided expert guidance. They created genuine competitive tension and maximised our valuation.",
     name: "Founder & CEO",
     role: "Industrial Services Business",
   },
   {
     quote:
-      "I sold a business through a broker years ago and thought I knew what to expect. Greenmount brought ideas around deal structure that had never even been considered, ultimately increasing my proceeds by hundreds of thousands of pounds. I wish I had found them sooner.",
+      "I sold a business through a broker years ago and thought I knew what to expect. Greencombe brought ideas around deal structure that had never even been considered, ultimately increasing my proceeds by hundreds of thousands of pounds. I wish I had found them sooner.",
     name: "Exiting Shareholder",
     role: "Professional Services Business",
   },

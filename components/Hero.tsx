@@ -39,7 +39,7 @@ export default function Hero() {
               Maximizing value for business owners
             </h1>
             <p className="font-dm text-lg text-white/90 mb-8 leading-relaxed">
-              Greenmount Corporate Finance is a specialist sell-side M&A advisory
+              Greencombe Corporate Finance is a specialist sell-side M&A advisory
               firm. We partner with founders and shareholders of independent
               businesses to maximise value and protect their interests when
               exiting.

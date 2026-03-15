@@ -37,7 +37,7 @@ export default function Navbar() {
               scrolled ? "text-brand-primary" : "text-white"
             }`}
           >
-            GREENMOUNT
+            GREENCOMBE
           </span>
           <span
             className={`font-dm text-[10px] tracking-[0.25em] uppercase transition-colors duration-300 ${
