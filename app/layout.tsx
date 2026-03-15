@@ -25,7 +25,7 @@ const cormorant = Cormorant_Garamond({
 export const metadata: Metadata = {
   title: "Greencombe Corporate Finance | Experts in Selling Businesses",
   description:
-    "Greencombe Corporate Finance helps business owners sell their businesses for the best possible price. We handle the entire process from valuation to completion.",
+    "Greencombe Corporate Finance helps business owners maximise the value of their businesses. With hands-on experience of acquiring and selling businesses, we make sure no value is left behind.",
   keywords:
     "sell my business, selling a business, business valuation, business sale, exit planning, UK, corporate finance",
   openGraph: {
