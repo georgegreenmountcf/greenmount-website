@@ -5,19 +5,19 @@ import { Shield, TrendingUp, Gavel, Target, Users, MessageCircle } from "lucide-
 
 const items = [
   {
+    icon: Target,
+    title: "No Obligation Free Valuation",
+    desc: "Thinking about an exit but unsure what your business is worth? We prepare a detailed valuation for shareholders at no cost and with no obligation — giving you the clarity to make informed decisions about your future.",
+  },
+  {
     icon: Users,
     title: "Big 4 & Private Equity Experience",
     desc: "Our team combines Big 4 corporate finance experience, where we assisted dozens of business owners through successful exits, alongside a private equity buy-and-build model where we acquired businesses directly from owners. Hands-on experience across the complete deal lifecycle on both the buy side and the sell side.",
   },
   {
-    icon: Target,
-    title: "Complimentary Valuation",
-    desc: "Thinking about an exit but unsure what your business is worth? We prepare a detailed valuation for shareholders at no cost and with no obligation — giving you the clarity to make informed decisions about your future.",
-  },
-  {
     icon: Shield,
     title: "Qualified Chartered Accountants, Not Brokers",
-    desc: "While working in private equity, we witnessed deal brokers leave millions of pounds of value behind for exiting shareholders due to their lack of financial and deal mechanics understanding. This is what led us to found Greencombe Corporate Finance. We have the technical skills to maximise exiting shareholder value.",
+    desc: "While working in private equity, we witnessed deal brokers leave millions of pounds of value behind for exiting shareholders due to their lack of understanding of financials and deal mechanics. This is what led us to found Greencombe Corporate Finance. We have the technical skills to maximise exiting shareholder value.",
   },
   {
     icon: Gavel,
