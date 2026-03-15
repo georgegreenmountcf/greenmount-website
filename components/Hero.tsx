@@ -40,9 +40,10 @@ export default function Hero() {
             </h1>
             <p className="font-dm text-lg text-white/90 mb-8 leading-relaxed">
               Your business deserves more than a broker. Greencombe Corporate
-              Finance are chartered accountants with both Big 4 and private
-              equity experience of buying and selling businesses. We ensure no
-              value is left behind.
+              Finance are chartered accountants with years of experience both
+              buying and selling businesses. We've completed dozens of
+              transactions and ensure that sellers receive full value for their
+              businesses.
             </p>
             <a
               href="#contact"
