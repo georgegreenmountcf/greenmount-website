@@ -17,7 +17,7 @@ const items = [
   {
     icon: Shield,
     title: "Qualified Chartered Accountants, Not Brokers",
-    desc: "While working in private equity, we witnessed deal brokers leave millions of pounds of value behind for exiting shareholders due to their lack of understanding of financials and deal mechanics. This is what led us to found Greencombe Corporate Finance. We have the technical skills to maximise exiting shareholder value.",
+    desc: "While working for a private equity buy-and-build, we came up against brokers selling businesses all the time. These brokers are not chartered accountants and lack any understanding of technical accounting or deal mechanics. We saw them leave business owners millions out of pocket, which led us to found Greencombe Corporate Finance. We have the technical skills to maximise exiting shareholder value.",
   },
   {
     icon: Gavel,
@@ -32,7 +32,7 @@ const items = [
   {
     icon: MessageCircle,
     title: "Straight Talking",
-    desc: "Transparent on value, process and expectations. No jargon, no hidden agendas.",
+    desc: "Transparent on value, process and expectations. We simplify the technical details and present them in a clear, concise way. No jargon, no hidden agendas.",
   },
 ];
 
