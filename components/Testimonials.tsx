@@ -19,9 +19,9 @@ const testimonials = [
   },
   {
     quote:
-      "Greenmount\u2019s professionalism and market knowledge gave us confidence throughout. I would not hesitate to recommend them.",
-    name: "Shareholder",
-    role: "Business Services Company",
+      "I sold a business through a broker years ago and thought I knew what to expect. Greenmount brought ideas around deal structure that had never even been considered, ultimately increasing my proceeds by hundreds of thousands of pounds. I wish I had found them sooner.",
+    name: "Exiting Shareholder",
+    role: "Professional Services Business",
   },
 ];
 
