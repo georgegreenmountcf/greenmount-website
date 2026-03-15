@@ -6,18 +6,18 @@ import { Shield, TrendingUp, Gavel, Target, Users, MessageCircle } from "lucide-
 const items = [
   {
     icon: Users,
-    title: "Big 4 Trained Dealmakers",
-    desc: "Our team brings Big 4 corporate finance pedigree with hands-on experience across both buy-side and sell-side M&A transactions.",
+    title: "Big 4 & Private Equity Experience",
+    desc: "Our team combines Big 4 corporate finance and private equity backgrounds, with hands-on experience across the complete deal lifecycle on both buy-side and sell-side transactions.",
   },
   {
     icon: Target,
-    title: "The £1\u201310m Sweet Spot",
-    desc: "Between £1m and £10m enterprise value, M&A boutiques won\u2019t engage and generalist brokers lack the expertise. We bridge that gap with institutional-quality advice at this underserved end of the market.",
+    title: "SME Specialists",
+    desc: "Our expertise lies with businesses generating between £500k and £50m in revenues — an area where Big 4 M&A fees are prohibitive due to exceptional overheads and generalist brokers lack the expertise. We bridge that gap with institutional-quality advice at this underserved end of the market.",
   },
   {
     icon: Shield,
-    title: "Qualified Accountants, Not Brokers",
-    desc: "Unlike generalist business brokers, we are qualified chartered accountants. That technical rigour protects value through due diligence and prevents hundreds of thousands being left on the table.",
+    title: "Qualified Chartered Accountants, Not Brokers",
+    desc: "While working in private equity, we witnessed deal brokers leave millions of pounds of value behind for exiting shareholders due to their lack of financial and deal mechanics understanding. This is what led us to found Greenmount Corporate Finance. We bring the technical rigour that protects shareholders through due diligence.",
   },
   {
     icon: Gavel,
@@ -27,7 +27,7 @@ const items = [
   {
     icon: TrendingUp,
     title: "Success-Based Fees",
-    desc: "Our fees are fully contingent on a successful outcome. We only succeed when you do.",
+    desc: "Many brokers charge thousands of pounds up front before any work begins. We are so confident in our service and outcomes that 100% of our fees are contingent on successful completion. We only succeed when you do.",
   },
   {
     icon: MessageCircle,

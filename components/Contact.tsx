@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Mail, Phone, Linkedin } from "lucide-react";
+import { Mail } from "lucide-react";
 
 export default function Contact() {
   return (
@@ -32,20 +32,6 @@ export default function Contact() {
                 info@greenmountcorporatefinance.co.uk
               </a>
 
-              {/* TODO: Replace with real phone number */}
-              <div className="flex items-center gap-3 font-dm text-brand-dark">
-                <Phone className="w-5 h-5 text-brand-primary" />
-                +44 (0) 1onal XXX XXXX
-              </div>
-
-              {/* TODO: Replace with real LinkedIn URL */}
-              <a
-                href="#"
-                className="flex items-center gap-3 font-dm text-brand-dark hover:text-brand-primary transition-colors"
-              >
-                <Linkedin className="w-5 h-5 text-brand-primary" />
-                LinkedIn
-              </a>
             </div>
           </motion.div>
 
