@@ -7,15 +7,15 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 const testimonials = [
   {
     quote:
-      "The Greencombe team delivered an exceptional result. Their process was meticulous and their negotiation skills were outstanding.",
-    name: "Managing Director",
-    role: "Technology Company",
+      "I didn't know how much my business was worth or where to start. Greencombe made the whole process stress-free and achieved an outcome I couldn't believe. I'm now enjoying my retirement.",
+    name: "Former Owner",
+    role: "Manufacturing Business",
   },
   {
     quote:
-      "From start to finish, Greencombe provided expert guidance. They created genuine competitive tension and maximised our valuation.",
-    name: "Founder & CEO",
-    role: "Industrial Services Business",
+      "Greencombe understood my business and the sector we operate in. They confidentially found the right buyer without alerting the wider market, and that buyer is now looking after my business and my former employees. I couldn't have asked for more.",
+    name: "Founder",
+    role: "Facilities Management Company",
   },
   {
     quote:
