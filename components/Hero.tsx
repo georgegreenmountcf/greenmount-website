@@ -39,11 +39,11 @@ export default function Hero() {
               Maximizing value for business owners
             </h1>
             <p className="font-dm text-lg text-white/90 mb-8 leading-relaxed">
-              Your business deserves more than a broker. Greencombe Corporate
-              Finance are chartered accountants with years of experience both
-              buying and selling businesses. We've completed dozens of
-              transactions and ensure that sellers receive full value for their
-              businesses.
+              For many business owners, selling your business is a
+              once-in-a-lifetime event. Greencombe Corporate Finance recognises
+              that your lifetime&apos;s work should be fully valued. We have completed
+              dozens of transactions both on the buy and sell side and therefore
+              understand the value areas that others miss.
             </p>
             <a
               href="#contact"
