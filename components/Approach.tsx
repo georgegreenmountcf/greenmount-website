@@ -16,8 +16,8 @@ const items = [
   },
   {
     icon: Shield,
-    title: "Qualified Chartered Accountants, Not Brokers",
-    desc: "While working for a private equity buy-and-build, we came up against brokers selling businesses all the time. These brokers are not chartered accountants and lack any understanding of technical accounting or deal mechanics. We saw them leave business owners millions out of pocket, which led us to found Greencombe Corporate Finance. We have the technical skills to maximise exiting shareholder value.",
+    title: "Qualified Chartered Accountants",
+    desc: "While working for private equity as a buyer of businesses, we came up against brokers all the time and first hand saw them leave millions of pounds worth of value behind. We have the technical expertise to ensure that we maximise the value of your business.",
   },
   {
     icon: Gavel,
