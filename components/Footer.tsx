@@ -1,13 +1,19 @@
+import Image from "next/image";
+
 export default function Footer() {
   return (
     <footer className="bg-brand-dark py-10 px-6 lg:px-8">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6 text-sm">
         {/* Logo & tagline */}
         <div className="text-center md:text-left">
-          <span className="font-playfair font-bold text-white text-base tracking-wide">
-            GREENCOMBE CORPORATE FINANCE
-          </span>
-          <p className="font-dm text-gray-400 text-xs mt-1">
+          <Image
+            src="/images/greencombe-logo.png"
+            alt="Greencombe Corporate Finance"
+            width={180}
+            height={53}
+            className="h-10 w-auto brightness-0 invert mx-auto md:mx-0"
+          />
+          <p className="font-dm text-gray-400 text-xs mt-2">
             Experts in Selling Businesses
           </p>
         </div>

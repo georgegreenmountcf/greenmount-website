@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
+import Image from "next/image";
 
 const navLinks = [
   { label: "Services", href: "#services" },
@@ -31,21 +32,17 @@ export default function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-6 lg:px-8 flex items-center justify-between h-20">
         {/* Logo */}
-        <a href="#" className="flex flex-col leading-tight">
-          <span
-            className={`font-playfair font-bold text-xl tracking-wide transition-colors duration-300 ${
-              scrolled ? "text-brand-primary" : "text-white"
+        <a href="#" className="flex items-center">
+          <Image
+            src="/images/greencombe-logo.png"
+            alt="Greencombe Corporate Finance"
+            width={220}
+            height={65}
+            className={`h-12 w-auto transition-all duration-300 ${
+              scrolled ? "" : "brightness-0 invert"
             }`}
-          >
-            GREENCOMBE
-          </span>
-          <span
-            className={`font-dm text-[10px] tracking-[0.25em] uppercase transition-colors duration-300 ${
-              scrolled ? "text-brand-secondary" : "text-white/80"
-            }`}
-          >
-            Corporate Finance
-          </span>
+            priority
+          />
         </a>
 
         {/* Desktop links */}
