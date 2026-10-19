@@ -30,7 +30,7 @@ export default function Navbar() {
           : "bg-transparent"
       }`}
     >
-      <div className="max-w-7xl mx-auto px-6 lg:px-8 flex items-center justify-between h-28">
+      <div className="max-w-7xl mx-auto px-6 lg:px-8 flex items-center justify-between h-32">
         {/* Logo */}
         <a href="#" className="flex items-center">
           <Image
@@ -38,7 +38,7 @@ export default function Navbar() {
             alt="Greencombe Corporate Finance"
             width={280}
             height={82}
-            className={`h-20 md:h-24 w-auto transition-all duration-300 ${
+            className={`h-24 md:h-[7rem] w-auto transition-all duration-300 ${
               scrolled ? "" : "brightness-0 invert"
             }`}
             priority
