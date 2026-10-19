@@ -9,9 +9,9 @@ export default function Footer() {
           <Image
             src="/images/greencombe-logo.png"
             alt="Greencombe Corporate Finance"
-            width={180}
-            height={53}
-            className="h-10 w-auto brightness-0 invert mx-auto md:mx-0"
+            width={240}
+            height={70}
+            className="h-14 w-auto brightness-0 invert mx-auto md:mx-0"
           />
           <p className="font-dm text-gray-400 text-xs mt-2">
             Experts in Selling Businesses

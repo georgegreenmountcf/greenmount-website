@@ -36,9 +36,9 @@ export default function Navbar() {
           <Image
             src="/images/greencombe-logo.png"
             alt="Greencombe Corporate Finance"
-            width={220}
-            height={65}
-            className={`h-12 w-auto transition-all duration-300 ${
+            width={280}
+            height={82}
+            className={`h-16 md:h-20 w-auto transition-all duration-300 ${
               scrolled ? "" : "brightness-0 invert"
             }`}
             priority
