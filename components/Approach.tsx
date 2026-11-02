@@ -12,12 +12,12 @@ const items = [
   {
     icon: Users,
     title: "Big 4 & Private Equity Experience",
-    desc: "Our team combined Big 4 corporate finance experience where we assisted dozens of business owners through successful sale processes, alongside private equity roles where we acquired businesses directly from owners. Hands-on experience across the complete deal lifecycle.",
+    desc: "Our team combines Big 4 corporate finance experience where we assisted dozens of business owners through successful sale processes, alongside private equity roles where we acquired businesses directly from owners. Hands-on experience across the complete deal lifecycle.",
   },
   {
     icon: Shield,
     title: "Qualified Chartered Accountants",
-    desc: "We have the technical expertise to ensure that we maximise the value of your business. While working for private equity as a buyer of businesses, we came up against brokers all the time and first hand saw them leave millions of pounds worth of value behind.",
+    desc: "We have the technical expertise to ensure that we maximise the value of your business. While working for private equity as a buyer of businesses, we came up against brokers all the time and first-hand saw them leave millions of pounds worth of value behind.",
   },
   {
     icon: Gavel,
