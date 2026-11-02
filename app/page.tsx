@@ -3,6 +3,7 @@ import Hero from "@/components/Hero";
 import Mission from "@/components/Mission";
 import Services from "@/components/Services";
 import Approach from "@/components/Approach";
+import Team from "@/components/Team";
 import Testimonials from "@/components/Testimonials";
 import ExitCTA from "@/components/ExitCTA";
 import Contact from "@/components/Contact";
@@ -16,6 +17,7 @@ export default function Home() {
       <Mission />
       <Services />
       <Approach />
+      <Team />
       <Testimonials />
       <ExitCTA />
       <Contact />
