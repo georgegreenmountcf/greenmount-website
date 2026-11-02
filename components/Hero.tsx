@@ -39,11 +39,11 @@ export default function Hero() {
               Maximising value for business owners
             </h1>
             <p className="font-dm text-lg text-white/90 mb-8 leading-relaxed">
-              For many business owners, selling your business is a
-              once-in-a-lifetime event. Greencombe Corporate Finance recognises
-              that your lifetime&apos;s work should be fully valued. We have completed
-              dozens of transactions both on the buy and sell side and therefore
-              understand the value areas that others miss.
+              Selling your business is likely the most significant financial
+              event of your lifetime. Having completed dozens of acquisitions as
+              buyers, we know exactly where value sits and how to protect it. We
+              manage every stage of the process to ensure your life&apos;s work is
+              fully rewarded.
             </p>
             <a
               href="#contact"
