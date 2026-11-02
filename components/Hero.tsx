@@ -36,7 +36,7 @@ export default function Hero() {
               Experts in Selling Businesses
             </p>
             <h1 className="font-playfair text-4xl md:text-5xl lg:text-6xl text-white leading-tight mb-6">
-              Maximizing value for business owners
+              Maximising value for business owners
             </h1>
             <p className="font-dm text-lg text-white/90 mb-8 leading-relaxed">
               For many business owners, selling your business is a
