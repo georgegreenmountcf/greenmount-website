@@ -22,7 +22,7 @@ const items = [
   {
     icon: Gavel,
     title: "50+ Acquisitions Completed",
-    desc: "Proven private equity buy-and-build experience, having completed over 50 acquisitions. We understand what buyers scrutinise because we\u2019ve sat on that side of the table.",
+    desc: "Proven experience having completed over 50 acquisitions. We understand what buyers scrutinise because we\u2019ve sat on that side of the table.",
   },
   {
     icon: TrendingUp,
