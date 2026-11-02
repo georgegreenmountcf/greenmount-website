@@ -27,7 +27,7 @@ const items = [
   {
     icon: TrendingUp,
     title: "Success-Based Fees",
-    desc: "Many brokers charge thousands of pounds up front before any work begins. We are so confident in our service and outcomes that 100% of our fees are contingent on successful completion. We only succeed when you do.",
+    desc: "Many advisers charge thousands of pounds up front before any work begins. We are so confident in our service and outcomes that 100% of our fees are contingent on successful completion. We only succeed when you do.",
   },
   {
     icon: MessageCircle,
