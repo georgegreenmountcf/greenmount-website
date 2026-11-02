@@ -12,7 +12,7 @@ const items = [
   {
     icon: Users,
     title: "Big 4 & Private Equity Experience",
-    desc: "Our team combines Big 4 corporate finance experience, where we assisted dozens of business owners through successful exits, alongside a private equity buy-and-build model where we acquired businesses directly from owners. Hands-on experience across the complete deal lifecycle on both the buy side and the sell side.",
+    desc: "Our team combined Big 4 corporate finance experience where we assisted dozens of business owners through successful sale processes, alongside private equity roles where we acquired businesses directly from owners. Hands-on experience across the complete deal lifecycle.",
   },
   {
     icon: Shield,
