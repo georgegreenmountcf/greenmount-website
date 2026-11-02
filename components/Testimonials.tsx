@@ -19,7 +19,7 @@ const testimonials = [
   },
   {
     quote:
-      "I sold a business through a broker years ago and thought I knew what to expect. Greencombe brought ideas around deal structure that had never even been considered, ultimately increasing my proceeds by hundreds of thousands of pounds. I wish I had found them sooner.",
+      "I sold a business through an adviser years ago and thought I knew what to expect. Greencombe brought ideas around deal structure that had never even been considered, ultimately increasing my proceeds by hundreds of thousands of pounds. I wish I had found them sooner.",
     name: "Exiting Shareholder",
     role: "Professional Services Business",
   },
