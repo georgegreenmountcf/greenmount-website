@@ -7,7 +7,7 @@ const items = [
   {
     icon: Target,
     title: "No Obligation Free Valuation",
-    desc: "Thinking about an exit but unsure what your business is worth? We prepare a detailed valuation for shareholders at no cost and with no obligation — giving you the clarity to make informed decisions about your future.",
+    desc: "Thinking about an exit but unsure what your business is worth? We prepare a detailed valuation for shareholders at no cost and with no obligation, giving you the clarity to make informed decisions about your future.",
   },
   {
     icon: Users,

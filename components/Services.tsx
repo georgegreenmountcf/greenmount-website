@@ -11,7 +11,7 @@ const services = [
   {
     num: "02",
     title: "Selective Buyer Mapping",
-    desc: "We identify and approach a carefully selected pool of strategic and financial buyers — no mass mailshots. Every approach is targeted, relevant, and protected by NDAs to maintain full confidentiality.",
+    desc: "We identify and approach a carefully selected pool of strategic and financial buyers. No mass mailshots. Every approach is targeted, relevant, and protected by NDAs to maintain full confidentiality.",
   },
   {
     num: "03",

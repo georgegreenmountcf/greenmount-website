@@ -17,7 +17,7 @@ export default function Mission() {
 
         <p className="font-cormorant italic text-2xl md:text-3xl text-brand-primary leading-relaxed">
           &ldquo;Having sat on both sides of the table as buyers and sellers, we
-          understand the value areas that others miss — from operational
+          understand the value areas that others miss, from operational
           improvements to deal structure and technical mechanics. Where
           traditional brokers leave significant value on the table, our
           qualified expertise and tenacious negotiation consistently deliver
