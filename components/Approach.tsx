@@ -17,7 +17,7 @@ const items = [
   {
     icon: Shield,
     title: "Qualified Chartered Accountants",
-    desc: "While working for private equity as a buyer of businesses, we came up against brokers all the time and first hand saw them leave millions of pounds worth of value behind. We have the technical expertise to ensure that we maximise the value of your business.",
+    desc: "We have the technical expertise to ensure that we maximise the value of your business. While working for private equity as a buyer of businesses, we came up against brokers all the time and first hand saw them leave millions of pounds worth of value behind.",
   },
   {
     icon: Gavel,
