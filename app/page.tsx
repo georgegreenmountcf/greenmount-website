@@ -2,7 +2,6 @@ import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Mission from "@/components/Mission";
 import Services from "@/components/Services";
-import WhyGreencombe from "@/components/WhyGreencombe";
 import Approach from "@/components/Approach";
 import Team from "@/components/Team";
 import Testimonials from "@/components/Testimonials";
@@ -17,7 +16,6 @@ export default function Home() {
       <Hero />
       <Mission />
       <Services />
-      <WhyGreencombe />
       <Approach />
       <Team />
       <Testimonials />
